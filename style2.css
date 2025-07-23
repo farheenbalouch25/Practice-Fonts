@@ -1,0 +1,16 @@
+@font-face {
+    font-family: farheen;
+    
+    src: url(./Anton-Regular.ttf)
+}
+h3,.para3{
+    font-family: farheen; 
+}
+
+h2,.para{
+    font-family: farheen;
+}
+
+h1,p{
+    font-family: farheen;
+}
